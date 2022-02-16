@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Student proposal toward the redevelopment of the Providence waterfront.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-163j-urban-design-studio-providence-spring-2005/f52adb5d3861d49c65c9ea698ae86c5b_finallimpantoudi.pdf
+file: /media/courses/4-163j-urban-design-studio-providence-spring-2005/f52adb5d3861d49c65c9ea698ae86c5b_finallimpantoudi.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: finallimpantoudi.pdf
 uid: f52adb5d-3861-d49c-65c9-ea698ae86c5b
