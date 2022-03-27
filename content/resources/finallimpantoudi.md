@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: bde59570-2fae-bb9f-c04f-201476c29e9b
 resourcetype: Document
 title: finallimpantoudi.pdf
 uid: f52adb5d-3861-d49c-65c9-ea698ae86c5b

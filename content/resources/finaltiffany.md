@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: bde59570-2fae-bb9f-c04f-201476c29e9b
 resourcetype: Document
 title: finaltiffany.pdf
 uid: 4348dbc2-e6d6-745c-da5b-6ed785190a78

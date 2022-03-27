@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: bde59570-2fae-bb9f-c04f-201476c29e9b
 resourcetype: Document
 title: finalmehta.pdf
 uid: 69aed1bd-67de-1883-269f-28e36150e41a

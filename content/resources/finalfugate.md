@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: bde59570-2fae-bb9f-c04f-201476c29e9b
 resourcetype: Document
 title: finalfugate.pdf
 uid: 8236976c-8343-3a63-b92c-edb0043d7f52
