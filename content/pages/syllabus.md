@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section provides information about course overview and the
+  areas of focus of the studio.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e0df7af0-721b-1689-0a36-e65feb561000
 ---

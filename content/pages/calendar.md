@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The calendar section provides information about the topics covered in
+  the course for each week during the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: b800b918-b7e8-8295-8e6e-097413517c06
 ---

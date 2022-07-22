@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Citations of suggested readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c847ef1a-9db7-ffd3-08c0-e215c5e76627
 ---
@@ -9,7 +13,7 @@ Urban Design Bibliography
 
 ### Worksheets and Urban Plans (unpublished)
 
-Dennis, M. "Density Calculation Worksheet." ([PDF]({{< baseurl >}}/resources/den_calculation))
+Dennis, M. "Density Calculation Worksheet." ({{% resource_link 7e668a00-694b-8248-363e-ec72f5ef01c3 "PDF" %}})
 
 Nealy, Craig. _Urban Redevelopment of Burlington, Vermont_. 1981.
 
