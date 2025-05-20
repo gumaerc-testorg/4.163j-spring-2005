@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student proposal toward the redevelopment of the Providence waterfront.
-file: /ol-ocw-studio-app/courses/4-163j-urban-design-studio-providence-spring-2005/4348dbc2e6d6745cda5b6ed785190a78_finaltiffany.pdf
+file: /courses/4-163j-urban-design-studio-providence-spring-2005/4348dbc2e6d6745cda5b6ed785190a78_finaltiffany.pdf
 file_size: 2219514
 file_type: application/pdf
 learning_resource_types:
