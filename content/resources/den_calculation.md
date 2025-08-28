@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Urban Fabric Statistics: calculating public/ private area, gross coverage,
   net coverage, gross far and net far.'
-file: /courses/4-163j-urban-design-studio-providence-spring-2005/7e668a00694b8248363eec72f5ef01c3_den_calculation.pdf
+file: /ol-ocw-studio-app/courses/4-163j-urban-design-studio-providence-spring-2005/7e668a00694b8248363eec72f5ef01c3_den_calculation.pdf
 file_size: 75422
 file_type: application/pdf
 learning_resource_types:
